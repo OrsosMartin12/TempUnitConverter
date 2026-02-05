@@ -1,0 +1,15 @@
+D:\Munka\12C\orsós_martin\TempUnitConverter\TempUnitConverter\TempUnitConverter\bin\Debug\net9.0\TempUnitConverter.exe
+D:\Munka\12C\orsós_martin\TempUnitConverter\TempUnitConverter\TempUnitConverter\bin\Debug\net9.0\TempUnitConverter.deps.json
+D:\Munka\12C\orsós_martin\TempUnitConverter\TempUnitConverter\TempUnitConverter\bin\Debug\net9.0\TempUnitConverter.runtimeconfig.json
+D:\Munka\12C\orsós_martin\TempUnitConverter\TempUnitConverter\TempUnitConverter\bin\Debug\net9.0\TempUnitConverter.dll
+D:\Munka\12C\orsós_martin\TempUnitConverter\TempUnitConverter\TempUnitConverter\bin\Debug\net9.0\TempUnitConverter.pdb
+D:\Munka\12C\orsós_martin\TempUnitConverter\TempUnitConverter\TempUnitConverter\obj\Debug\net9.0\TempUnitConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Munka\12C\orsós_martin\TempUnitConverter\TempUnitConverter\TempUnitConverter\obj\Debug\net9.0\TempUnitConverter.AssemblyInfoInputs.cache
+D:\Munka\12C\orsós_martin\TempUnitConverter\TempUnitConverter\TempUnitConverter\obj\Debug\net9.0\TempUnitConverter.AssemblyInfo.cs
+D:\Munka\12C\orsós_martin\TempUnitConverter\TempUnitConverter\TempUnitConverter\obj\Debug\net9.0\TempUnitConverter.csproj.CoreCompileInputs.cache
+D:\Munka\12C\orsós_martin\TempUnitConverter\TempUnitConverter\TempUnitConverter\obj\Debug\net9.0\TempUnitConverter.sourcelink.json
+D:\Munka\12C\orsós_martin\TempUnitConverter\TempUnitConverter\TempUnitConverter\obj\Debug\net9.0\TempUnitConverter.dll
+D:\Munka\12C\orsós_martin\TempUnitConverter\TempUnitConverter\TempUnitConverter\obj\Debug\net9.0\refint\TempUnitConverter.dll
+D:\Munka\12C\orsós_martin\TempUnitConverter\TempUnitConverter\TempUnitConverter\obj\Debug\net9.0\TempUnitConverter.pdb
+D:\Munka\12C\orsós_martin\TempUnitConverter\TempUnitConverter\TempUnitConverter\obj\Debug\net9.0\TempUnitConverter.genruntimeconfig.cache
+D:\Munka\12C\orsós_martin\TempUnitConverter\TempUnitConverter\TempUnitConverter\obj\Debug\net9.0\ref\TempUnitConverter.dll
