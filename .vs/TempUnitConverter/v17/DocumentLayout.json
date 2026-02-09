@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Munka\\12C\\ors\u00F3s_martin\\TempUnitConverter\\TempUnitConverter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70BF539A-F160-4E87-B1A4-3E91AE2FBF93}|TestUnite\\TestUnite.csproj|d:\\munka\\12c\\ors\u00F3s_martin\\tempunitconverter\\tempunitconverter\\testunite\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70BF539A-F160-4E87-B1A4-3E91AE2FBF93}|TestUnite\\TestUnite.csproj|solutionrelative:testunite\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Munka\\12C\\ors\u00F3s_martin\\TempUnitConverter\\TempUnitConverter\\TestUnite\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestUnite\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1ECD02B-6FFD-4CF9-B08D-21C8B66BD021}|TempUnitConverter\\TempUnitConverter.csproj|d:\\munka\\12c\\ors\u00F3s_martin\\tempunitconverter\\tempunitconverter\\tempunitconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1ECD02B-6FFD-4CF9-B08D-21C8B66BD021}|TempUnitConverter\\TempUnitConverter.csproj|solutionrelative:tempunitconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Munka\\12C\\ors\u00F3s_martin\\TempUnitConverter\\TempUnitConverter\\TempUnitConverter\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TempUnitConverter\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1ECD02B-6FFD-4CF9-B08D-21C8B66BD021}|TempUnitConverter\\TempUnitConverter.csproj|d:\\munka\\12c\\ors\u00F3s_martin\\tempunitconverter\\tempunitconverter\\tempunitconverter\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1ECD02B-6FFD-4CF9-B08D-21C8B66BD021}|TempUnitConverter\\TempUnitConverter.csproj|solutionrelative:tempunitconverter\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Munka\\12C\\ors\u00F3s_martin\\TempUnitConverter\\TempUnitConverter\\TempUnitConverter\\Converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TempUnitConverter\\Converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "TempUnitConverter\\Converter.cs",
               "ToolTip": "D:\\Munka\\12C\\ors\u00F3s_martin\\TempUnitConverter\\TempUnitConverter\\TempUnitConverter\\Converter.cs",
               "RelativeToolTip": "TempUnitConverter\\Converter.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-23T07:04:02.704Z",
               "IsPinned": true,
@@ -46,7 +46,7 @@
               "RelativeDocumentMoniker": "TestUnite\\UnitTest1.cs",
               "ToolTip": "D:\\Munka\\12C\\ors\u00F3s_martin\\TempUnitConverter\\TempUnitConverter\\TestUnite\\UnitTest1.cs",
               "RelativeToolTip": "TestUnite\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-02T09:58:39.565Z",
               "EditorCaption": ""
@@ -59,7 +59,7 @@
               "RelativeDocumentMoniker": "TempUnitConverter\\Program.cs",
               "ToolTip": "D:\\Munka\\12C\\ors\u00F3s_martin\\TempUnitConverter\\TempUnitConverter\\TempUnitConverter\\Program.cs",
               "RelativeToolTip": "TempUnitConverter\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-23T07:02:17.956Z",
               "EditorCaption": ""

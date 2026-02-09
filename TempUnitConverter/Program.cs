@@ -23,18 +23,30 @@ namespace TempUnitConverter
             double k = 0;
             double f = 32;
 
+            //convert osztály példányositása
             Converter converter = new Converter();
 
+            //szamolás az adatokkal és kiirás
             double kk = converter.CToK(c);
             Console.WriteLine($"10 °C = {kk} °K");
+
+            //szamolás az adatokkal és kiirás
             double ff = converter.CToF(c);
             Console.WriteLine($"10 °C = {ff} °F");
+
+            //szamolás az adatokkal és kiirás
             double cc = converter.KToC(k);
             Console.WriteLine($"0 °K = {cc} °C");
+
+            //szamolás az adatokkal és kiirás
             double fff = converter.KToF(k);
             Console.WriteLine($"0 °K = {fff} °F");
+
+            //szamolás az adatokkal és kiirás
             double kkk = converter.FToC(f);
             Console.WriteLine($"32 °F = {kkk} °K");
+
+            //szamolás az adatokkal és kiirás
             double ccc = converter.FToK(f);
             Console.WriteLine($"32 °F = {ccc} °C");
             Console.ReadKey();
